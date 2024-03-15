@@ -1,0 +1,14 @@
+C:\Рабочая\C#\HW_Ref\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Рабочая\C#\HW_Ref\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Рабочая\C#\HW_Ref\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Рабочая\C#\HW_Ref\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Рабочая\C#\HW_Ref\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Рабочая\C#\HW_Ref\MyProject\obj\Debug\net7.0\ref\MyProject.dll
